@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-sm-3">
                 <div class="card">
-                    <img class="card-img-top" src="img/view/cover1.jpg" >
+                    <img class="card-img-top" src="cover1.jpg" >
                     <div class="card-body">
                         <h4 class="card-title">Our Staff</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <img class="card-img-top" src="img/view/cover2.jpg" >
+                    <img class="card-img-top" src="cover2.jpg" >
                     <div class="card-body">
                         <h4 class="card-title">Our Staff</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
@@ -32,7 +32,7 @@
             </div>
             <div class="col-sm-3">
                 <div class="card">
-                    <img class="card-img-top" src="img/view/cover3.jpg" >
+                    <img class="card-img-top" src="cover3.jpg" >
                     <div class="card-body">
                         <h4 class="card-title">Our Staff</h4>
                         <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
