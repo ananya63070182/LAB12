@@ -12,26 +12,26 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="row">
-                    <img src="img/afteryou/desert2.jpg" class="img-fluid" style="padding: 1px; height: 900px;"/>
+                    <img src="desert2.jpg" class="img-fluid" style="padding: 1px; height: 900px;"/>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="row">
-                    <img src="img/afteryou/desert1.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
+                    <img src="desert1.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
                 </div>
                 <div class="row">
-                    <img src="img/afteryou/desert4.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
+                    <img src="desert4.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
                 </div>
                 <div class="row">
-                    <img src="img/afteryou/desert9.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
+                    <img src="desert9.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
                 </div>
             </div>
             <div class="col-lg-3">
                 <div class="row">
-                    <img src="img/afteryou/desert12.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 600px;""/>
+                    <img src="desert12.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 600px;""/>
                 </div>
                 <div class="row">
-                    <img src="img/afteryou/desert11.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
+                    <img src="desert11.jpg" class="img-fluid" style="padding: 1px; width: 300px; height: 300px;"/>
                 </div>
             </div>
         </div>
